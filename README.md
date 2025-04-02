@@ -1,5 +1,3 @@
-# FIFO
-
 # FIFO Design and Implementation
 
 ## Overview
